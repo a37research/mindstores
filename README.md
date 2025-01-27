@@ -1,2 +1,2 @@
 # mindstores
-Code for the ICML 2025 submission Pheromone-based Learning of Optimal Reasoning Paths
+Code for the ICML 2025 submission Memory-Informed Neural Decision Synthesis for Task-Oriented Reinforcement in Embodied Systems
